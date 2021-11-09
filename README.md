@@ -1,4 +1,4 @@
-# [Custom Medical Shields]
+# Custom Medical Shields
 
 Above are assets rendered and animated in KeyShot 9 Pro. 
 
